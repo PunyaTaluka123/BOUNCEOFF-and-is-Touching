@@ -1,2 +1,2 @@
-# BOUNCEOFF-and-is-Touching
-MY OWN LIBRARY
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
